@@ -1,5 +1,5 @@
 
 <?php
     $teste = "Entrei";
-    echo "<h2>" + $teste + "</h2>";
+    print "<h2> $teste </h2>";
 ?>
