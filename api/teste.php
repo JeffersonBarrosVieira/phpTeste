@@ -1,5 +1,5 @@
 
 <?php
-    $bebida = "refrigerante";
-    echo "<h2>" + $bebida + "</h2>";
+    $teste = "Entrei";
+    echo "<h2>" + $teste + "</h2>";
 ?>
